@@ -43,5 +43,5 @@ The goal of this repository is to:
 
 ## 📌 Notes
 
-* Not all sites currently have complete data; namely H2NOW and MWRD have to be updated.
+* Not all sites currently have complete data; namely H2NOW has to be updated.
 * Precipitation and flow are visualized in tandem with water quality trends to contextualize the influence of hydrologic events on these parameters.
